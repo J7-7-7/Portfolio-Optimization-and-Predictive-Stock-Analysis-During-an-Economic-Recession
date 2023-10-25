@@ -38,7 +38,6 @@ approaches.
 
 We describe the creation of a Reddit bot as a means of automating the dissemination of 
 prediction results. The bot, developed using the Reddit API, allows for the automated 
-19
 posting of updated recession predictions and related analysis on a dedicated subreddit. This 
 approach ensures timely and efficient distribution of information to a broader audience, 
 including users interested in economic trends and financial markets
